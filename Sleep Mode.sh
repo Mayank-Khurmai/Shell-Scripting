@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo “Wait for 5 seconds”
+echo “Please Wait for 5 seconds”
 sleep 5
 echo “Completed”
